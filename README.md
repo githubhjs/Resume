@@ -1,1 +1,54 @@
-# Josh (Chih-Hsueh) Huang Taipei City, Taiwan | jamphus@gmail.com | +1-425-998-6872 | [linkedin.com/in/huangjs](https://www.linkedin.com/in/huangjs) ## PRINCIPAL DIGITAL IC DESIGNER | AI-NATIVE WORKFLOW PIONEER --- ### PROFESSIONAL SUMMARY CS-educated (NCTU/NTHU) Digital IC Designer with over 18 years of experience in high-performance silicon design (MStar, Ubiquiti, ASPEED). I specialize in "Software-Defined Hardware Design," leveraging a strong computer science background to re-architect traditional EDA environments. As a high-intensity ChipAgents Power User, I have developed a proprietary methodology for bridging the "last mile" of AI in RTL design—mastering agentic close-loop systems to achieve what traditional teams struggle to implement: autonomous testing, real-time error correction, and full-stack architecture standardization. --- ### CORE SKILLS * Digital IC Design & Leadership: High-speed RTL Design (Verilog/SV), ISP (3A/HDR/CFC), BMC Architecture, Timing Closure, Power/Area Optimization. * Agentic Mastery (The 1% Practitioner): Expert in "Divide-and-Conquer" guiding, Real-time Agent Pivoting, and Context/Memory Management for complex RTL generation via ChipAgents. * Advanced Automation & Infrastructure: Python (FastAPI/CLI), C/C++ (DPI-C), Perl/Tcl, CI/CD (Jenkins: 22+ Jobs), Docker/QEMU. * EDA Flow Innovation: Full-Stack Unified Design Environments (C-Model to FW), Bit-True Co-Simulation, Cadence Conformal (LEC/Waiver), Automated Regression. --- ### PROFESSIONAL EXPERIENCE ASPEED Technology | Taipei, Taiwan *Principal Digital IC Designer & Design Efficiency Lead* | June 2022 – Present #### Pioneering AI-Native RTL Workflows (Powered by ChipAgents) * Production-Grade AF Module Engineering: Directed ChipAgents through 20+ iterative modifications to architect a production-grade ISP Auto Focus module. Successfully navigated the AI learning curve to ensure 100% coding style compliance and timing closure within an autonomous, close-loop environment. * Full-Stack Unified IP Flow Environment (C-Model to Firmware): Architected a comprehensive design infrastructure for 103 IP modules. Automated the entire pipeline—including Design, Synthesis, Lint, LEC, ECO, and Firmware header generation—ensuring absolute structural consistency and zero-manual-intervention handoffs across the HW/SW boundary. * Autonomous ISP Bit-True Co-Simulation Framework: Developed a high-fidelity DPI-C verification environment for 6+ core ISP modules. Leveraged agentic analysis to debug complex pipeline synchronization issues (EOF/EOL), ensuring 100% bit-true alignment between high-level C-Models and RTL logic. * SmartSramGen (Agentic Evolution): Re-engineered the corporate SRAM generation tool from a simple Q&A AI model into a ChipAgents-driven autonomous system capable of self-correction across 600+ instances. #### Strategic Technical Leadership * Agentic Adoption Pioneer: Developed a disciplined "Strategic Guiding" methodology that overcame the adoption friction causing other senior engineers to revert to legacy methods, effectively serving as the internal champion for AI-native workflows. * Infrastructure Auditing: Optimized 22 Jenkins Pipeline jobs and utilized AI for comprehensive knowledge management, significantly reducing RTL team onboarding time. Bitmain / Cvitek | Taipei, Taiwan *Lead ISP Digital Designer* | July 2018 – June 2022 Ubiquiti Networks | Taipei, Taiwan *SoC Design Engineer* | December 2013 – June 2018 MStar Semiconductor (Acquired by MediaTek) | Hsinchu, Taiwan *Senior Digital IC Designer & Automation Lead* | April 2008 – December 2013 --- ### EDUCATION * National Tsing Hua University (NTHU) | Master of Computer Science | 2005 – 2007 * National Chiao Tung University (NCTU) | Bachelor of Computer Science | 2001 – 2005
+# Josh (Chih-Hsueh) Huang 
+Taipei City, Taiwan | jamphus@gmail.com | +1-425-998-6872 | [linkedin.com/in/huangjs](https://www.linkedin.com/in/huangjs) 
+
+## PRINCIPAL DIGITAL IC DESIGNER | AI-NATIVE WORKFLOW PIONEER 
+
+--- 
+
+### PROFESSIONAL SUMMARY 
+
+CS-educated (NCTU/NTHU) Digital IC Designer with over 18 years of experience in high-performance silicon design (MStar, Ubiquiti, ASPEED). I specialize in "Software-Defined Hardware Design," leveraging a strong computer science background to re-architect traditional EDA environments. As a high-intensity ChipAgents Power User, I have developed a proprietary methodology for bridging the "last mile" of AI in RTL design—mastering agentic close-loop systems to achieve what traditional teams struggle to implement: autonomous testing, real-time error correction, and full-stack architecture standardization. 
+
+--- 
+
+### CORE SKILLS 
+
+* Digital IC Design & Leadership: High-speed RTL Design (Verilog/SV), ISP (3A/HDR/CFC), BMC Architecture, Timing Closure, Power/Area Optimization. 
+* Agentic Mastery (The 1% Practitioner): Expert in "Divide-and-Conquer" guiding, Real-time Agent Pivoting, and Context/Memory Management for complex RTL generation via ChipAgents. 
+* Advanced Automation & Infrastructure: Python (FastAPI/CLI), C/C++ (DPI-C), Perl/Tcl, CI/CD (Jenkins: 22+ Jobs), Docker/QEMU. 
+* EDA Flow Innovation: Full-Stack Unified Design Environments (C-Model to FW), Bit-True Co-Simulation, Cadence Conformal (LEC/Waiver), Automated Regression. 
+
+--- 
+
+### PROFESSIONAL EXPERIENCE 
+
+**ASPEED Technology | Taipei, Taiwan** 
+*Principal Digital IC Designer & Design Efficiency Lead* | June 2022 – Present 
+
+#### Pioneering AI-Native RTL Workflows (Powered by ChipAgents) 
+
+* Production-Grade AF Module Engineering: Directed ChipAgents through 20+ iterative modifications to architect a production-grade ISP Auto Focus module. Successfully navigated the AI learning curve to ensure 100% coding style compliance and timing closure within an autonomous, close-loop environment. 
+* Full-Stack Unified IP Flow Environment (C-Model to Firmware): Architected a comprehensive design infrastructure for 103 IP modules. Automated the entire pipeline—including Design, Synthesis, Lint, LEC, ECO, and Firmware header generation—ensuring absolute structural consistency and zero-manual-intervention handoffs across the HW/SW boundary. 
+* Autonomous ISP Bit-True Co-Simulation Framework: Developed a high-fidelity DPI-C verification environment for 6+ core ISP modules. Leveraged agentic analysis to debug complex pipeline synchronization issues (EOF/EOL), ensuring 100% bit-true alignment between high-level C-Models and RTL logic. 
+* SmartSramGen (Agentic Evolution): Re-engineered the corporate SRAM generation tool from a simple Q&A AI model into a ChipAgents-driven autonomous system capable of self-correction across 600+ instances. 
+
+#### Strategic Technical Leadership 
+
+* Agentic Adoption Pioneer: Developed a disciplined "Strategic Guiding" methodology that overcame the adoption friction causing other senior engineers to revert to legacy methods, effectively serving as the internal champion for AI-native workflows. 
+* Infrastructure Auditing: Optimized 22 Jenkins Pipeline jobs and utilized AI for comprehensive knowledge management, significantly reducing RTL team onboarding time. 
+
+**Bitmain / Cvitek | Taipei, Taiwan** 
+*Lead ISP Digital Designer* | July 2018 – June 2022 
+
+**Ubiquiti Networks | Taipei, Taiwan** 
+*SoC Design Engineer* | December 2013 – June 2018 
+
+**MStar Semiconductor (Acquired by MediaTek) | Hsinchu, Taiwan** 
+*Senior Digital IC Designer & Automation Lead* | April 2008 – December 2013 
+
+--- 
+
+### EDUCATION 
+
+* National Tsing Hua University (NTHU) | Master of Computer Science | 2005 – 2007 
+* National Chiao Tung University (NCTU) | Bachelor of Computer Science | 2001 – 2005
