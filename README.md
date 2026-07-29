@@ -25,12 +25,20 @@ CS-educated (NCTU/NTHU) Digital IC Designer with over 18 years of experience in 
 **ASPEED Technology | Taipei, Taiwan** 
 *Principal Digital IC Designer & Design Efficiency Lead* | June 2022 – Present 
 
+De facto end-to-end owner of the ISP subsystem — RTL through Conformal LEC sign-off and GUC foundry-deliverable packaging — with ~15,300 authored commits across 5 product repositories over 4 years (10× the next-highest contributor on the primary IP repo) and a 103-file reusable common IP library used across ~80 ISP unit blocks. 
+
 #### Pioneering AI-Native RTL Workflows (Powered by ChipAgents) 
 
 * Production-Grade AF Module Engineering: Directed ChipAgents through 20+ iterative modifications to architect a production-grade ISP Auto Focus module. Successfully navigated the AI learning curve to ensure 100% coding style compliance and timing closure within an autonomous, close-loop environment. 
 * Full-Stack Unified IP Flow Environment (C-Model to Firmware): Architected a comprehensive design infrastructure for 103 IP modules. Automated the entire pipeline—including Design, Synthesis, Lint, LEC, ECO, and Firmware header generation—ensuring absolute structural consistency and zero-manual-intervention handoffs across the HW/SW boundary. 
 * Autonomous ISP Bit-True Co-Simulation Framework: Developed a high-fidelity DPI-C verification environment for 6+ core ISP modules. Leveraged agentic analysis to debug complex pipeline synchronization issues (EOF/EOL), ensuring 100% bit-true alignment between high-level C-Models and RTL logic. 
 * SmartSramGen (Agentic Evolution): Re-engineered the corporate SRAM generation tool from a simple Q&A AI model into a ChipAgents-driven autonomous system capable of self-correction across 600+ instances. 
+
+#### Sign-off & Verification Breakthroughs 
+
+* Conformal LEC Closure: Closed hierarchical RTL-vs-netlist equivalence on a large frozen netlist to 0 NEQ with 0 manual pin-constraints — a chip-blocking problem no other engineer had cleared — delivering the FULL-EQ verdict directly to chiptop owners with the final netlist md5-verified before sign-off. 
+* Protocol Compliance: Audited handshake modules against the ARM AMBA AXI-Stream specification, identified a real deadlock condition, and shipped a spec-compliant replacement with a written compliance proof. 
+* GUC Foundry Interface: Owned the GUC deliverable interface end-to-end — UNS screening driven to a clean pass, SRAM-compiler upgrade fallout resolved, packaging automation built, and a daily automated status report so hand-offs never silently stalled. 
 
 #### Strategic Technical Leadership 
 
